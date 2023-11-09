@@ -144,12 +144,12 @@ exports[`screen: Nav/MenuItems it renders 1`] = `
 }
 
 .emotion-1.active .MuiListItemIcon-root svg {
-  fill: #FF835B;
-  color: #FF835B;
+  fill: #745cb7;
+  color: #745cb7;
 }
 
 .emotion-1.active .MuiListItemText-root {
-  color: #FF835B;
+  color: #745cb7;
 }
 
 .emotion-2 {

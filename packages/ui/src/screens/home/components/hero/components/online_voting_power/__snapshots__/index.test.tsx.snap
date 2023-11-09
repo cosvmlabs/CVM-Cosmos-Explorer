@@ -36,7 +36,7 @@ exports[`screen: Home/OnlineVotingPower matches snapshot 1`] = `
 }
 
 .emotion-2 .primary__data {
-  color: #FF835B;
+  color: #745cb7;
   margin-right: 16px;
   font-size: 2.5rem;
 }
@@ -74,7 +74,7 @@ exports[`screen: Home/OnlineVotingPower matches snapshot 1`] = `
 
 .emotion-6 {
   width: 100%;
-  background: #FF835B;
+  background: #745cb7;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
@@ -279,7 +279,7 @@ exports[`screen: Home/OnlineVotingPower matches snapshot 2`] = `
 }
 
 .emotion-2 .primary__data {
-  color: #FF835B;
+  color: #745cb7;
   margin-right: 16px;
   font-size: 2.5rem;
 }
@@ -317,7 +317,7 @@ exports[`screen: Home/OnlineVotingPower matches snapshot 2`] = `
 
 .emotion-6 {
   width: 100%;
-  background: #FF835B;
+  background: #745cb7;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }

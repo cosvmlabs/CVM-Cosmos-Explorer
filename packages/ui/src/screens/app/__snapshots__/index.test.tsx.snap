@@ -118,7 +118,7 @@ exports[`screen: _app matches snapshot 1`] = `
   font-family: fontFamily;
   font-weight: 300;
   line-height: 1.2;
-  color: #FF835B;
+  color: #745cb7;
 }
 
 <div

@@ -95,7 +95,7 @@ exports[`components: Pagination/Actions matches snapshot 1`] = `
 
 .emotion-5.selected {
   color: #FFFFFF;
-  background: #FF835B;
+  background: #745cb7;
 }
 
 .emotion-5.selected:hover {

@@ -16,7 +16,7 @@
     ],
     "dark": {
       "primary": {
-        "main": "#FF835B",
+        "main": "#745cb7",
         "contrastText": "#FFFFFF"
       },
       "background": {
@@ -44,7 +44,7 @@
           "highlight": "#4092CD"
         },
         "primaryData": {
-          "one": "#F87255",
+          "one": "#745cb7",
           "two": "#FA9147",
           "three": "#43BE7C",
           "four": "#43A1BE"
@@ -111,7 +111,7 @@
     },
     "light": {
       "primary": {
-        "main": "#FF835B",
+        "main": "#745cb7",
         "contrastText": "#FFFFFF"
       },
       "background": {
@@ -139,7 +139,7 @@
           "highlight": "#4092CD"
         },
         "primaryData": {
-          "one": "#F87255",
+          "one": "#745cb7",
           "two": "#FA9147",
           "three": "#20D494",
           "four": "#2FB6E0"

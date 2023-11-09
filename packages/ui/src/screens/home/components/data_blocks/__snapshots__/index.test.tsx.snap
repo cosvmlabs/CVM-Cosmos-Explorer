@@ -22,7 +22,7 @@ exports[`screen: Home/DataBlocks matches snapshot 1`] = `
 
 .emotion-1 {
   padding: 16px;
-  background: #FF835B;
+  background: #745cb7;
   border-radius: 4px;
   height: 110px;
   display: -webkit-box;
@@ -40,7 +40,7 @@ exports[`screen: Home/DataBlocks matches snapshot 1`] = `
   -webkit-justify-content: space-between;
   justify-content: space-between;
   color: #FFFFFF;
-  background: #F87255;
+  background: #745cb7;
 }
 
 .emotion-1 .label {
@@ -103,7 +103,7 @@ exports[`screen: Home/DataBlocks matches snapshot 1`] = `
 
 .emotion-4 {
   padding: 16px;
-  background: #FF835B;
+  background: #745cb7;
   border-radius: 4px;
   height: 110px;
   display: -webkit-box;
@@ -166,7 +166,7 @@ exports[`screen: Home/DataBlocks matches snapshot 1`] = `
 
 .emotion-7 {
   padding: 16px;
-  background: #FF835B;
+  background: #745cb7;
   border-radius: 4px;
   height: 110px;
   display: -webkit-box;
@@ -238,7 +238,7 @@ exports[`screen: Home/DataBlocks matches snapshot 1`] = `
 
 .emotion-11 {
   padding: 16px;
-  background: #FF835B;
+  background: #745cb7;
   border-radius: 4px;
   height: 110px;
   display: -webkit-box;

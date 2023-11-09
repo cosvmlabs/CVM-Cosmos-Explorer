@@ -52,7 +52,7 @@ exports[`screen: Nav/SingleNetwork it renders 1`] = `
 }
 
 .emotion-2.mainnet {
-  background: #FF835B;
+  background: #745cb7;
 }
 
 <a

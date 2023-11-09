@@ -11,7 +11,7 @@ const useStyles = makeStyles<{ checked: true | false }>()((theme, { checked }) =
       transitionDuration: '300ms',
       '&.Mui-checked': {
         transform: 'translateX(17px)',
-        color: '#FF835B',
+        color: '#745cb7',
         '& + .MuiSwitch-track': {
           backgroundRepeat: 'no-repeat',
           backgroundColor: theme.palette.mode === 'dark' ? '#414141' : '#707070',
@@ -24,7 +24,7 @@ const useStyles = makeStyles<{ checked: true | false }>()((theme, { checked }) =
         },
       },
       '&.Mui-focusVisible .MuiSwitch-thumb': {
-        color: '#FF835B',
+        color: '#745cb7',
         border: `6px solid ${theme.palette.common.white}`,
       },
       '&.Mui-disabled .MuiSwitch-thumb': {
@@ -39,7 +39,7 @@ const useStyles = makeStyles<{ checked: true | false }>()((theme, { checked }) =
       width: 18,
       height: 18,
       // eslint-disable-next-line no-nested-ternary
-      color: checked ? '#FF835B' : theme.palette.mode === 'dark' ? '#999999' : '#C4C4C4',
+      color: checked ? '#745cb7' : theme.palette.mode === 'dark' ? '#999999' : '#C4C4C4',
     },
     '& .MuiSwitch-track': {
       borderRadius: 26 / 2,

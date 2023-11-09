@@ -107,7 +107,7 @@ export const common = (theme: ThemeOptions) =>
           highlight: '#FFFFFF',
         },
         primaryData: {
-          one: '#F87255',
+          one: '#745cb7',
           two: '#FA9147',
           three: '#43BE7C',
           four: '#43A1BE',

@@ -3,7 +3,7 @@
 exports[`screen: Home/SingleBlock matches snapshot 1`] = `
 .emotion-0 {
   padding: 16px;
-  background: #FF835B;
+  background: #745cb7;
   border-radius: 4px;
   height: 110px;
   display: -webkit-box;

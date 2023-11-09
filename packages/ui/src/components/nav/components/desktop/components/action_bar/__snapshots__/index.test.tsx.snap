@@ -438,7 +438,7 @@ label[data-shrink=false]+.MuiInputBase-formControl .emotion-6:focus::-ms-input-p
 }
 
 .emotion-10.Mui-checked {
-  color: #FF835B;
+  color: #745cb7;
 }
 
 .emotion-10.Mui-checked:hover {
@@ -456,7 +456,7 @@ label[data-shrink=false]+.MuiInputBase-formControl .emotion-6:focus::-ms-input-p
 }
 
 .emotion-10.Mui-checked+.MuiSwitch-track {
-  background-color: #FF835B;
+  background-color: #745cb7;
 }
 
 .emotion-11 {
@@ -1089,7 +1089,7 @@ label[data-shrink=false]+.MuiInputBase-formControl .emotion-6:focus::-ms-input-p
 }
 
 .emotion-10.Mui-checked {
-  color: #FF835B;
+  color: #745cb7;
 }
 
 .emotion-10.Mui-checked:hover {
@@ -1107,7 +1107,7 @@ label[data-shrink=false]+.MuiInputBase-formControl .emotion-6:focus::-ms-input-p
 }
 
 .emotion-10.Mui-checked+.MuiSwitch-track {
-  background-color: #FF835B;
+  background-color: #745cb7;
 }
 
 .emotion-11 {

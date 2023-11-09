@@ -28,7 +28,7 @@ exports[`screen: Nav/Desktop hook toggles correctly 1`] = `
   top: 0;
   left: auto;
   right: 0;
-  background-color: #FF835B;
+  background-color: #745cb7;
   color: #FFFFFF;
 }
 
@@ -208,7 +208,7 @@ exports[`screen: Nav/Desktop it renders 1`] = `
   top: 0;
   left: auto;
   right: 0;
-  background-color: #FF835B;
+  background-color: #745cb7;
   color: #FFFFFF;
 }
 

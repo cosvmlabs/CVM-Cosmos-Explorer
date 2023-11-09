@@ -132,7 +132,7 @@ exports[`screen: Nav/Mobile it renders 1`] = `
 }
 
 .emotion-9.mainnet {
-  background: #FF835B;
+  background: #745cb7;
 }
 
 .emotion-13 {
