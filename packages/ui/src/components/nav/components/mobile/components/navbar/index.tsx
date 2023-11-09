@@ -25,13 +25,13 @@ const Navbar = (props: NavbarProps) => {
         ) : (
           <BigDipperLogoWhite className={classes.logo} />
         )} */}
-        <Image width={0} height={0} src={BigDipperLogo} className={classes.logo} unoptimized />
+        <Image width={0} height={32} src={BigDipperLogo} className={classes.logo} unoptimized />
       </Link>
       <div className={classes.actions}>
         {/* =================================== */}
         {/* Network */}
         {/* =================================== */}
-        <div
+        {/* <div
           className={classes.network}
           onClick={openNetwork}
           role="button"
@@ -40,7 +40,7 @@ const Navbar = (props: NavbarProps) => {
         >
           <p className="text">{selectedName}</p>
           <ExpandMoreIcon fontSize="small" />
-        </div>
+        </div> */}
         {/* =================================== */}
         {/* Hamburger */}
         {/* =================================== */}

@@ -42,7 +42,7 @@ const useStyles = makeStyles()((theme) => ({
   },
   hamburger: {
     zIndex: 200,
-    width: '120px',
+    width: '40px',
     '&:hover': {
       cursor: 'pointer',
     },
